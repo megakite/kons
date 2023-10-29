@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1698402567
-ModificationTime: 1698599330
+ModificationTime: 1698600116
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: 30
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 32 16 6
+WinInfo: 48 16 6
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -1856,8 +1856,8 @@ BDFChar: 77 57 17 2 14 0 18
 %tH@l?uTLmi&KXSi&G+(E&]g:%laQ.!+5fb!Peef#65_D?iU0,
 BDFChar: 78 58 17 7 9 1 11
 i8EMnzi8EMn
-BDFChar: 79 59 17 6 9 -2 10
-E,]ar!!$tWE+!'=J,fQL
+BDFChar: 79 59 17 6 9 -3 11
+E,]arzE,]c(?pK5B
 BDFChar: 80 60 17 2 13 1 11
 !&+EB"7Qi:561T]0E;L]!rr>:!&+BQ
 BDFChar: 81 61 17 2 14 2 10
@@ -1946,8 +1946,8 @@ BDFChar: 122 120 17 1 15 0 13
 (^rMJ?7q6`#=&MZ"+UK("i(;W8E/k*n9A=p
 BDFChar: 123 121 17 1 14 -6 13
 (^N5D>TB7R*#oq<*#oq<*#oq<*]stg#Fkc6!#uOe3#FV/*+0#%
-BDFChar: 124 122 17 2 14 0 13
-490jB@,SgcJ:N1N+5fB!#RCtI+;f>WL[Y?&
+BDFChar: 124 122 17 1 14 0 13
+*X"]`0Q:DB5X7Sb&+C\!"9\u5&.CZ<6hl3$
 BDFChar: 125 123 17 3 11 -6 20
 !It4O"oo,5%KHt=%KHt=%KHt=)uprY2urFJ2ujou)upHK%KHt=%KHt=%KHt="on])!It.M
 BDFChar: 126 125 17 5 13 -6 20
