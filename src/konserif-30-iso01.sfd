@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: Konserif-30
-FullName: Konserif 30
-FamilyName: Konserif-30
+FontName: Konserif-30-WIP
+FullName: Konserif 30 WIP
+FamilyName: Konserif-30-WIP
 Weight: Regular
 Copyright: Copyright (c) 2023, megakite
 UComments: "2023-10-27: Created with FontForge (http://fontforge.org)"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1698402567
-ModificationTime: 1698600116
+ModificationTime: 1703948359
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -45,18 +45,18 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
-Encoding: ISO8859-1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: 30
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 48 16 6
+WinInfo: 32 16 6
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 593494 296747 197831 0 1048576 197831 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 257 257
+BeginChars: 262 262
 
 StartChar: A
 Encoding: 65 65 0
@@ -455,28 +455,28 @@ EndChar
 
 StartChar: numbersign
 Encoding: 35 35 61
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: dollar
 Encoding: 36 36 62
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: percent
 Encoding: 37 37 63
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: ampersand
 Encoding: 38 38 64
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
@@ -504,21 +504,21 @@ EndChar
 
 StartChar: asterisk
 Encoding: 42 42 68
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: plus
 Encoding: 43 43 69
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: comma
 Encoding: 44 44 70
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
@@ -546,14 +546,14 @@ EndChar
 
 StartChar: six
 Encoding: 54 54 74
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: seven
 Encoding: 55 55 75
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
@@ -567,55 +567,56 @@ EndChar
 
 StartChar: nine
 Encoding: 57 57 77
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: colon
 Encoding: 58 58 78
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: semicolon
 Encoding: 59 59 79
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: less
 Encoding: 60 60 80
-Width: 1000
+Width: 566
+Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: equal
 Encoding: 61 61 81
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: greater
 Encoding: 62 62 82
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: question
 Encoding: 63 63 83
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: at
 Encoding: 64 64 84
-Width: 1000
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
@@ -1690,39 +1691,74 @@ EndChar
 
 StartChar: uni2113
 Encoding: 256 8467 256
-Width: 0
+Width: 566
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: quoteright
+Encoding: 257 8217 257
+Width: 566
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: quoteleft
+Encoding: 258 8216 258
+Width: 566
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ltshade
+Encoding: 259 9617 259
+Width: 566
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: shade
+Encoding: 260 9618 260
+Width: 566
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: dkshade
+Encoding: 261 9619 261
+Width: 566
 Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 30 258 22 8 1
-BDFChar: 0 65 17 0 16 0 19
-!.Y%O^]4DN!!0k8!oO%[huEi:!!I6@"E4>DDu^/'!!kOa&,6,9)upNi!"^+M+:\Ao%KIU]!;Jd/
-
+BitmapFont: 30 263 22 8 1
+BDFChar: 0 65 17 0 16 0 18
+#J^<?^]4DN!!;'Y!oO%[huEn!!!I6@"E4>H2uj4D!"\i)&0(Z])upNi!$DaO+:\Ao%KQ8gJ,fQL
 BDFChar: 1 109 17 0 16 0 13
-'93(ehZ,\"!&2:j0Z*lE_Z2C.!&2:j0Z*lE_Z2C.!&2:j0Z*nfmskB<
+'+=m8ScCe6!&2:j0Z*lE_Z2C.!&2:j0Z*lE_Z2C.!&2:j0Z*nfmskB<
 BDFChar: 2 97 17 2 15 0 13
 %fe?"5i;WM!,qpW+7O5gi,IUni,J2TIs`;&
 BDFChar: 3 101 17 2 14 0 13
 %tHWIE%kZZi->:khuM[8huN6HE!Uh&5N!'&
 BDFChar: 4 103 17 1 15 -6 13
-#7MI)0OSj=E,[L=(r.L!?iXR7Du`,t+8d5k5R,".hurNTJ+,\<
+#7MI)0P#-AE,[L=(r.L!?iXR7Du`,t+8d5k5R,".^]`R$J+,\<
 BDFChar: 5 107 17 1 16 0 20
-#QP\Ap]*8R2uko<2ukpc3$:1G3.O!h3WMAE4+K?,38cc83&il;pce`Y
+#QP\Ap]*8R2uko<2ukpc3$:1G3.O!h3WMAE4+K?,38cc83&il;r]^A_
 BDFChar: 6 105 17 5 11 0 20
 3&ikt!!!!)pc(5m3&ilW3&ilWrVuou
-BDFChar: 7 116 17 4 13 0 18
-"98i1)uprY)utJ=rr=#=)uprY)uprY)uprY)uprY*^C6d#64`(
+BDFChar: 7 116 17 3 14 0 18
+!WWE)%KHt=%KM":s1f*E%KHt=%KHt=%KHt=%KHtM%j2+m"+U@O
 BDFChar: 8 50 17 2 14 0 18
-%tHCm5]AtBJ2i'=J2i'=5]?_m&)][fIfM_6J-^Z2s7lWhs7cQo
+%tHCm5]AtBJ2i'=J2i'=5]?bn&)][&5QH<7J-^Z2s7lWhs7cQo
 BDFChar: 9 49 17 5 11 0 18
-#l$A=3&ilW3&ilW3&ilW3&pm;
+pc(5m3&ilW3&ilW3&ilW3&pm;
 BDFChar: 10 52 17 2 14 0 18
-4hs(n0u.55@DG1E6,8&eJ\ZiPJ\ZiXs7cW9!Pe`O!Pe`O#Oh]n
+&\pEB4hu'Q@DG1E6,8&eJ\ZiPJ\ZiXs7cW9!Pe`O!Pe`O#Oh]n
 BDFChar: 11 51 17 2 14 0 18
-%feT)E+!X(+E.="!+5fB"+Ug<!,qol!'#KgJ2ff5@.6D=%tFW[
+%fe<!E+%UC?uR6-!8mjm!rrbF!,qol!'#KgJ2ff5@.6D=%tFW[
 BDFChar: 12 53 17 2 14 0 18
-J+.sW5S-0l5QF%L5QG/A@,O:h!&+C4!&ss<!'#LJ5k%"r++O=k
+J+.sW5S-0l5QF%L5QG/A@,O:h!&+C4!&ss<!'#LJ5k%"r%tFW[
 BDFChar: 13 102 17 4 14 0 20
 #Cm,r&E",X(dJo<)utJ=rr=#=)uprY)uprY)uprY)uprY)uprYIfKHK
 BDFChar: 14 108 17 5 14 0 20
@@ -1730,11 +1766,11 @@ BDFChar: 14 108 17 5 14 0 20
 BDFChar: 15 114 17 2 13 0 13
 $/k^M4E*8&2uko<2uko<2uko<2uko<2urpX
 BDFChar: 16 92 17 3 13 -6 20
-?i]*bhuI]rDuahW2uko<2ujou)uprY%KHt=%KH_6#64u/"+UK("+UEf!Pe`O!8mk8!5JR7
++9:="huI]rDuahW2uko<2ujou)uprY%KHt=%KH_6#64u/"+UK("+UEf!Pe`O!8mk8!.Y%L
 BDFChar: 17 111 17 1 15 0 13
-#J_0q0K="k?l\)7i""ZTi!s]7E#^hS*&%W5
+#N-GD0Ka:o?ln59i""ZTi"#5bE#a*>4>7;]
 BDFChar: 18 115 17 2 14 0 13
-&&8`q+E1^2DubC'5O]3Y!'!4\i#(A`E$-7<
+%tH?A+E1^2DubC'5O]3Y!'!4\i#(A`E$-7<
 BDFChar: 19 100 17 1 15 0 20
 !!iQA!;HOR!&ss<!&tKK3;@H;?o[((i&KXSi&KXSi&G[8G^_l]%j1iP
 BDFChar: 20 98 17 1 15 0 20
@@ -1747,10 +1783,10 @@ BDFChar: 23 32 17 0 0 0 0
 z
 BDFChar: 24 124 17 7 9 -6 20
 +CO-ci8EPOi8EPOi8EPOi8EPOi8EPOi4sjC
-BDFChar: 25 46 17 7 9 0 2
-i8EMn
-BDFChar: 26 126 17 2 14 6 10
-490g1O,*o-!T3qX
+BDFChar: 25 46 17 6 9 0 3
+@.<Yn
+BDFChar: 26 126 17 1 15 6 10
+*WSD+8&TuR!:Tsg
 BDFChar: 27 0 17 0 0 0 0
 z
 BDFChar: 28 1 17 0 0 0 0
@@ -1815,63 +1851,63 @@ BDFChar: 57 30 17 0 0 0 0
 z
 BDFChar: 58 31 17 0 0 0 0
 z
-BDFChar: 59 33 17 7 9 0 20
-5iCSYi8EPOi8ENY5X7S"!!(s8huE`W
-BDFChar: 60 34 17 4 13 11 20
-5_.h/iP=EfiP=EfiP7^/5_)+M
-BDFChar: 61 35 17 0 16 -3 17
-!.b+NK)bq)!!<E*!sS`-"oobFJ-HD^"q1J?(]Xs]!"9\E(bbq,0ED.N!&.d\0OOl7?iXTM!+<SB
-5_&h7
-BDFChar: 62 36 17 2 14 -2 18
-!WW9%%tHES+u!I;@M!P[It0cA&+BX>!]YcKJf)?Ai\3,q%tF]]!WW3#
+BDFChar: 59 33 17 7 9 0 19
+5iCSYi8EPOi8?jc5X7R7!8uen
+BDFChar: 60 34 17 4 13 11 19
+5_.h/iP=EfiP=Ef5_)+M5_&h7
+BDFChar: 61 35 17 0 16 -4 19
+!X&K*LB%F3!!@uV#7^_=%KH_D!'gL6%NGHY)upHg!"KtK*&mp<2ujpX!$!rus8E!XDu_k:!'"ot
+E8U_8huI`S!"^7Q
+BDFChar: 62 36 17 2 14 -2 19
+!WW9%%tHES+u!I;@LuuKEWA=S5N!(A!cS3#Jf'(V_AM8d111WC!WW9%
 BDFChar: 63 37 17 1 15 0 19
-!!G7a9F/WL`Xp-4A3`+>!.Y(M!<<0$"?6NX#f[Fq&B5i'5WD"/
+3!;nX`X'Qq`Xp-4A3`+>!.Y(M!<<0$"?6NX#f[Fq&B5j45\*,>
 BDFChar: 64 38 17 1 16 0 19
-!rrbF(gn1g(gn1G%"Jce"oo,5'-8A,@>J?Ji6^Cin1\f`IuGHS
-BDFChar: 65 39 17 7 9 11 20
-5iCSYi8ENY5X5;L
-BDFChar: 66 40 17 6 11 -6 20
-":,h]0JIHb@,Tu$i8EPOi8A!^E%is_(^L6E
-BDFChar: 67 41 17 4 9 -6 20
-J3[LM0JGIG(`XM8*#oq<*#oeT3&!$o?pK5B
-BDFChar: 68 42 17 4 12 11 19
-0E?(m1Op9l!!)Wkjo@mO"onW'
-BDFChar: 69 43 17 2 14 0 13
+#Cm5u(gn1g(gn1G%"Jce"oo,5'-8q<@>J?Ji6^Cii%T+PIuGHS
+BDFChar: 65 39 17 7 9 11 19
+5iCSYi8?jc5QCca
+BDFChar: 66 40 17 6 12 -6 20
+!X&cG(bdX_E+%V^i8EPOi*^MC0JF=\#Qt2/
+BDFChar: 67 41 17 3 9 -5 20
+J3Y520GkWH*"3;e%LrsY$lg6((bdWd5_&h7
+BDFChar: 68 42 17 3 13 10 20
+#QP\A3.Mm^$fD!bq>bR:,Cfjr!WW3#
+BDFChar: 69 43 17 2 14 2 15
 !<<3%#64u/#64u/J,''5#64u/#64u/"onc+
-BDFChar: 70 44 17 6 9 -4 2
-E,]c(?pK5B
-BDFChar: 71 45 17 4 12 6 7
-It7P!
+BDFChar: 70 44 17 5 9 -4 4
+0R.h%0JFV7J,fQL
+BDFChar: 71 45 17 2 14 8 9
+J,''5
 BDFChar: 72 47 17 3 13 -6 20
-!$D8L!8mjm!Pe_d!It9&!rrE'#64r."oo,5$ig\9)upfU(]ZMq0E<d,Dua8GhuLOmJ,fQL
+!.Y(-!8mmn!Pe`O"+UK("+UUV#64u/%KHt=%KIIK)uprY2uko<2ummtDuahWhuM[8+92BA
 BDFChar: 73 48 17 2 14 0 18
 #65XW0]6>X?uY$`i&K^Uk;_Wak;_H\i&KXSE%l5b3+*`A#64`(
 BDFChar: 74 54 17 2 14 0 18
-%tH?AE"HCWhuM[8huN4rnDN5Di%X(Ki&KXSi&G[0E%j7Z%tFW[
-BDFChar: 75 55 17 3 13 0 18
-s5<q8J09@bJ04h7!$D8,!'gP"!.Y*#"+UUV%fdXNHiQ,+&-)\1
+%tH?AE,]2Ei%X(3huN4rnDN5Di,IU6i&KXSi&G[0E%j7Z%tFW[
+BDFChar: 75 55 17 2 13 0 18
+s7$'XJ.R5BJ.M\l!"],Q!$D8L!'gP"!Peef#Cm<b4ocQ&#QOi)
 BDFChar: 76 56 17 2 14 0 18
 #65UV0OSj=E,]c83+*_V%fd9Y+Q-XHi&KXSi&KXSE%j7Z%tFW[
 BDFChar: 77 57 17 2 14 0 18
-%tH@l?uTLmi&KXSi&G+(E&]g:%laQ.!+5fb!Peef#65_D?iU0,
-BDFChar: 78 58 17 7 9 1 11
-i8EMnzi8EMn
-BDFChar: 79 59 17 6 9 -3 11
-E,]arzE,]c(?pK5B
-BDFChar: 80 60 17 2 13 1 11
-!&+EB"7Qi:561T]0E;L]!rr>:!&+BQ
-BDFChar: 81 61 17 2 14 2 10
-J,''5zz!!%NDs6p!g
-BDFChar: 82 62 17 3 14 1 11
-^]6%g$igA0!5J^+&&:C0quH3d^]4?7
-BDFChar: 83 63 17 3 13 0 20
-*rp;r@)1^Yi8EPO5i;XX!Pe_d!rrB&"onc+"98Q)z%KHt=%KHJ/
+%tH@l?uTLmi&KXSi&G+(E&]g:%QFH-!+5fb!Peef#65_D?iU0,
+BDFChar: 78 58 17 6 9 1 12
+@.<Ynz@.<Yn
+BDFChar: 79 59 17 5 9 -4 12
+0R.grz0R.h%0JFV7J,fQL
+BDFChar: 80 60 17 2 15 2 14
+!"8ii!;lrg&&:C0quADN$igA0!5JRg!"8i-
+BDFChar: 81 61 17 2 14 4 13
+J,''5zzzJ,''5
+BDFChar: 82 62 17 1 14 2 14
+^]6%g$igA0!5JRg!;lrg&&:C0quH3d^]4?7
+BDFChar: 83 63 17 2 14 0 20
+%tH@l5]AtBJ2i'=J2i'=5]Au-0]2rH!It1N!WW9%z#64u/#64`(
 BDFChar: 84 64 17 2 14 -6 20
-#CmY!+>=ol5Sua'5T%>i_`5XQ`Yc]4`Yc]4`Yc]4`Yc],`t6/H_8+t/?iY-W4<P`]#CldS
+#CmY!+>=ol5Sua'5T%>i_`5[R`u)i6`u)i6`u)i6`u)i.a,n3s_8+t/?jL]_4<P`]#CldS
 BDFChar: 85 66 17 1 14 0 18
-s1gU53&ilW3&ilW3&!<W5N"LT3#FUp3#jmt3#jmt3&im:s1eU7
-BDFChar: 86 67 17 1 15 0 18
-#N?^=3"Bm3E!"r!huM[8huM[8huM[8huN6HDub+a49Q`C#N,R^
+s1gU53&ilW3&ilW3&!<W5N"LT3#FUp3#jmt3#jmt3#FV/s53kW
+BDFChar: 86 67 17 1 16 0 18
+#N?^E3"Bm3E!"r!huM[8huM[8huM[8huM[8DujnZ3!:9>#N,R^
 BDFChar: 87 68 17 0 15 0 18
 s55jr3#jmf3"@nQ3!VDJ3!VDJ3!VDJ3!VDJ3"@nX3#jn;s53kW
 BDFChar: 88 69 17 1 14 0 18
@@ -1887,11 +1923,11 @@ s*u'h)uprY)uprY)uprY)uprY)uprY)uprY)uprY)uprYs*t(L
 BDFChar: 93 74 17 1 12 -4 18
 +7KA_"+UK("+UK("+UK("+UK("+UK("+UK("+UK("+UK(6\+1sirEZk(]XO9
 BDFChar: 94 75 17 0 16 0 18
-rZ;,""9:Ce!&tMi3$82\5QEco!'(#Z3WK.D!!#4`!'>]23PYVShuG`U!&uq<3#hoX%KQJmJ,fQL
+r]^BB$ii6u!&u)$3'[I'J,hS0!'1)[49,@F!!#4`!'>]23PYVShuG`U!&uq<3#hoX%KQJmJ,fQL
 BDFChar: 95 76 17 2 14 0 18
 rW"nX2uko<2uko<2uko<2uko<2uko<3!_JL3!_J\3#FV7s7cQo
 BDFChar: 96 77 17 0 16 0 18
-p`G$2*WUF+!*h,V>V6"]/c\XA!)?8h:/1dZNW;S0!(W%L6Oj)`%KJj+!'h"o5RmcZ%KPu_J,fQL
+p^_n"%fghb!*g<?>SdBF(B@2X!)=mA:+$$37fZ%L!(TNZ6\bY/LB'\s!'phi5mIBU#6=68J,fQL
 BDFChar: 97 78 17 0 16 0 18
 r""<?!WXhS!%n<Q-NX8q!WXHs!$d'q+i44&_>k_<!$L8$+E@H)EW@4C!$F<&+<CM**WYsFz
 BDFChar: 98 79 17 1 15 0 18
@@ -1903,7 +1939,7 @@ BDFChar: 100 81 17 1 16 -7 18
 BDFChar: 101 82 17 1 16 0 18
 s+!(:3&!<O3&ilW3&!="5Cb`/3++^b3,gir3,gi:3&il;rW`E'
 BDFChar: 102 83 17 2 14 0 18
-&!.?A+>@17?k?]GDu`+Q5N!(A!,qot!#U5'J/H'=i%VBCO+731
+&!.?A+>@17?k?]GDu`+Q5N!(A!,qot!#U5'J/H'=i%XY.O+731
 BDFChar: 103 84 17 1 15 0 18
 s8Koj_hNeqK7\`-"+UK("+UK("+UK("+UK("+UK("+UK(+7K71
 BDFChar: 104 85 17 0 16 0 18
@@ -1911,19 +1947,19 @@ rXXN=!WY1]!&t#[3!'(>!WY1]!&t#[3!'(>!WY1]!&t#[3!'(>!WY=a!#u+A*Xi#Zp](ESz
 BDFChar: 105 86 17 0 16 0 18
 rXXN=!WY1]!&t#[*!?6]"99DE!"K87%L<%E#QP)@!!a&8#7pk;TE#(e!!Ako!Pe[9^]4DNz
 BDFChar: 106 87 17 0 16 0 18
-p]l=W_#RlZ!+<VC@)2gt@K8,l!&7p_0k(,;@K7<'!#dZo)DhF41]SFN!"9\E$lAsQ(]Xs]z
+r!.ak5lbji!,t4(E8^e9i;bjs!','"3H>*[EWA-]!'3.@3][6\)upru!#usY(^pB]$ih+Qz
 BDFChar: 107 88 17 1 15 0 18
-r'!(G*"X)$%Nl6(#=&MZ"+UK("i(;W#iH!H&9&2"+?1K'pjN2C
+r'!(O*"X)4%Nl6H#=&NE"+UK("2G)U"Q0RD#]L>o&3(dlpjN2C
 BDFChar: 108 89 17 1 15 0 18
 r'!(G3!^K8*"WT&%Nl!A#=&BA"+UK("+UK("+UK("+UK(+7K71
 BDFChar: 109 90 17 1 15 0 18
 J,Wgq?lVEk5]Au-5i;[Y!Peef#64u/%K[UO*!/)$E!C7cs8Duu
-BDFChar: 110 91 17 7 12 -6 20
-r8?Mki8EPOi8EPOi8EPOi8EPOi8EPOi8FM5
-BDFChar: 111 93 17 4 9 -6 20
-r#?[r*#oq<*#oq<*#oq<*#oq<*#oq<*$"kV
-BDFChar: 112 94 17 4 12 16 20
-#QPhE/c\BAK7Eq%
+BDFChar: 110 91 17 7 14 -6 20
+s5;hni8EPOi8EPOi8EPOi8EPOi8EPOi8FV8
+BDFChar: 111 93 17 2 9 -6 20
+rs&c6#6tJ=#6tJ=#6tJ=#6tJ=#6tJ=#7(8/
+BDFChar: 112 94 17 3 13 14 20
+"98o3(B>\16,8$/!'gMa
 BDFChar: 113 95 17 1 15 -2 -1
 J,]KG
 BDFChar: 114 96 17 5 10 15 20
@@ -1941,17 +1977,17 @@ BDFChar: 119 117 17 0 15 0 13
 BDFChar: 120 118 17 0 16 0 13
 rXXN=!WX2C!#u+A%L<%E#QP)@!!a&8"/#VrTE##.!!0k8!.Y%LJ,fQL
 BDFChar: 121 119 17 0 16 0 13
-nABca_#RlZ!&7p_0k(,;@K8,l!#dZo)DhF41]SFN!"9\E$lAsQ(]XO9
+r!.ak!<@()!,t4(E8^dViW(uZ!','"3][7%3WL->!#usY(^pB]$ig8-
 BDFChar: 122 120 17 1 15 0 13
 (^rMJ?7q6`#=&MZ"+UK("i(;W8E/k*n9A=p
 BDFChar: 123 121 17 1 14 -6 13
-(^N5D>TB7R*#oq<*#oq<*#oq<*]stg#Fkc6!#uOe3#FV/*+0#%
+(^N5D>TB7R*#oq<*#oq<*#oq<*]stg#Fkc6!$!*uE#<OJ3+*8I
 BDFChar: 124 122 17 1 14 0 13
 *X"]`0Q:DB5X7Sb&+C\!"9\u5&.CZ<6hl3$
-BDFChar: 125 123 17 3 11 -6 20
-!It4O"oo,5%KHt=%KHt=%KHt=)uprY2urFJ2ujou)upHK%KHt=%KHt=%KHt="on])!It.M
-BDFChar: 126 125 17 5 13 -6 20
-^]5JW0E='42uko<2uko<2uko<)uprY%KH`a%KIIK)uqqu2uko<2uko<2uko<0E<3q^]4?7
+BDFChar: 125 123 17 3 12 -6 20
+!Pep?"oo,5%KHt=%KHt=%KHt=)uprY2uqk:2ujou)upHK%KHt=%KHt=%KHt="onl.!Pe[8
+BDFChar: 126 125 17 4 13 -6 20
+huG_:(]YNU)uprY)uprY)uprY%KHt=#64e?#6556%KIIK)uprY)uprY)uprY(]ZMqhuE`W
 BDFChar: 127 127 17 0 0 0 0
 z
 BDFChar: 128 128 17 0 0 0 0
@@ -2212,5 +2248,18 @@ BDFChar: 255 255 17 0 0 0 0
 z
 BDFChar: 256 256 17 3 13 0 20
 #650_*.T$E*5EQ0*5EQ0*5EPE*Io.1*WR/[494.:)ups$*^C6d#64`(
+BDFChar: 257 257 17 5 9 11 19
+0R.h%0JFV7J,fQL
+BDFChar: 258 258 17 7 11 11 19
+#S8+d@,UPD?iU0,
+BDFChar: 259 259 17 0 16 -8 21
++UA'7&:fEW!!kmk&;1$,#QR1&J:o'G#XSM&KE*/$!(%6IKHU=$63%RM!$MUJ64e[#+TMd7!"ae`
++UA'7&:fEW!!kmk&;1$,#QR1&J:o'G#XSM&KE(uP
+BDFChar: 260 260 17 0 16 -8 21
+8L/hL8H:$!!(eGdP">X!OoS'!J<EJ(,a&.!,_2%L!$m^-8L/hL8H:$!!(eGdP">X!OoS'!J<EJ(
+,a&.!,_2%L!$m^-8L/hL8H:$!!(eGdP">X!OoPI^
+BDFChar: 261 261 17 0 16 -8 21
+WiCSL<<0&!J5oSLWiCSL<<0&!J5oSLWiCSL<<0&!J5oSLWiCSL<<0&!J5oSLWiCSL<<0&!J5oSL
+WiCSL<<0&!J5oSLWiCSL<<0&!J5oSLWiCSL<<*"!
 EndBitmapFont
 EndSplineFont
